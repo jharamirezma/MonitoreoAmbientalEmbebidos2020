@@ -1,8 +1,0 @@
-{
-  "name": "Prueba_1",
-  "integrations": {
-    "capacitor": {},
-    "cordova": {}
-  },
-  "type": "angular"
-}
